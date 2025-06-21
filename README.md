@@ -12,7 +12,7 @@
 
 ## 🎯 About Me
 
-I'm a **Software Engineer** at [**@Rappi**](https://github.com/rappi) where I work as a backend developer in the assignments team. My current responsibilities include maintaining **Go services**, designing architecture for new Rappi services and processes. I've contributed to robust systems that handle **thousands of active users** and complex operations.
+I'm a **Software Engineer** at [**@Rappi**](https://github.com/rappinc) where I work as a backend developer in the assignments team. My current responsibilities include maintaining **Go services**, designing architecture for new Rappi services and processes. I've contributed to robust systems that handle **thousands of active users** and complex operations.
 
 In my free time, I'm working on [**@Cartori**](https://github.com/cartori), a health application designed to track patient information and analyze medical data. This venture aims to improve healthcare through better data management and analysis capabilities.
 
