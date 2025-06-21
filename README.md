@@ -12,7 +12,7 @@
 
 ## 🎯 About Me
 
-I'm a **Software Engineer** at [**@Rappi**](https://github.com/rappinc) where I work as a backend developer in the assignments team. My current responsibilities include maintaining **Go services**, designing architecture for new Rappi services and processes. I've contributed to robust systems that handle **thousands of active users** and complex operations.
+I'm a **Software Engineer** at [**@Rappi**](www.rappi.com.mx) where I work as a backend developer in the assignments team. My current responsibilities include maintaining **Go services**, designing architecture for new Rappi services and processes. I've contributed to robust systems that handle **thousands of active users** and complex operations.
 
 In my free time, I'm working on [**@Cartori**](https://github.com/cartori), a health application designed to track patient information and analyze medical data. This venture aims to improve healthcare through better data management and analysis capabilities.
 
@@ -66,17 +66,6 @@ In my free time, I'm working on [**@Cartori**](https://github.com/cartori), a he
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=mgaliciat&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-[![mgaliciat's github activity graph](https://activity-graph.herokuapp.com/graph?username=mgaliciat&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
